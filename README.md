@@ -1,4 +1,4 @@
-# Laravel 9 React Redux Cunter Application
+# Laravel 9 React Redux Counter Application
 
 ![Image](1.PNG?raw=true "Image")
 
